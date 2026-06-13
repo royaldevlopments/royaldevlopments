@@ -98,12 +98,19 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<a href="https://github.com/royaldevlopments">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaldevlopments&layout=compact&theme=dark&hide_border=true" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaldevlopments&layout=compact&theme=radical&hide_border=true&langs_count=10" width="49%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=royaldevlopments&theme=radical&hide_border=true" width="49%" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=royaldevlopments&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldevlopments&theme=redical&hide_border=true&area=true&radius=8" width="96%" />
+</div>
 
 ---
 
