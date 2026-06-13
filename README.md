@@ -31,7 +31,7 @@ Hey, I'm **Shaurya** — the founder. I started this because I believed develope
 | Role | Name |
 |------|------|
 | **Founder & Lead Developer** | Shaurya |
-| **Co-Founder** | _— Add name here —_ |
+| **Co-Founder** | TBA |
 | **Team** | Growing... |
 
 We're a small but passionate team. We believe in quality over quantity, and every project we ship reflects that.
