@@ -172,12 +172,6 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
 <a href="https://github.com/royaldevlopments">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=150&section=footer&text=Thanks%20for%20visiting%20%F0%9F%9A%80&fontSize=30&fontAlignY=65&animation=twinkling" width="100%" />
 </a>
