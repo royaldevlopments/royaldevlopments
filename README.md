@@ -1,21 +1,40 @@
 # 👋 Hey, I'm Shaurya
 
-Founder of **Royal Devlopments** — a development studio focused on building AI-powered tools for developers.
+Founder of **Royal Devlopments** — a full-service development studio that started from a Discord server and grew into something bigger.
 
 ---
 
-## 🏢 Royal Devlopments
+## 🏢 Royal Devlopments — The Story
 
-We build products that make developers' lives easier.
+What began as a small conversation in a **Discord server** is now a full-fledged development company. It started with a simple idea — why can't a group of passionate developers build things that actually matter? No corporate nonsense, no red tape. Just code, creativity, and the drive to ship.
 
-| Project | Description |
-|---------|-------------|
-| **RoyalCode** | AI-powered coding assistant for the terminal |
-| **RoyalPanel** | Game server management panel |
+Today, Royal Devlopments is exactly that. We don't just build tools — we build **websites, Android apps, iOS apps, Windows apps, desktop software, APIs, and everything in between.** If it involves code, we do it.
+
+From startups needing their first MVP to businesses looking for custom software solutions, we take ideas and turn them into reality. Every project is a reflection of our belief: **quality over quantity, always.**
+
+### About the Founder
+
+Hey, I'm **Shaurya** — the founder. I started this because I believed developers should have better tools and businesses should have better software. I code in TypeScript, React, Bun, and whatever gets the job done. I believe in clean code, great UX, and shipping on time.
+
+### Our Pillars
+
+| Pillar | What We Do |
+|--------|------------|
+| 🌐 **Web Development** | Websites, web apps, dashboards, APIs |
+| 📱 **Mobile Apps** | Android & iOS apps with React Native |
+| 💻 **Software** | Desktop apps for Windows, macOS & Linux |
+| 🤖 **AI & Tools** | AI-powered assistants, dev tools, automations |
+| ☁️ **Cloud & Infra** | Deployment, hosting, scaling, DevOps |
 
 ### Our Team
 
-A small, focused team passionate about developer tooling, AI, and building things that matter.
+| Role | Name |
+|------|------|
+| **Founder & Lead Developer** | Shaurya |
+| **Co-Founder** | _— Add name here —_ |
+| **Team** | Growing... |
+
+We're a small but passionate team. We believe in quality over quantity, and every project we ship reflects that.
 
 ---
 
