@@ -182,3 +182,5 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 [![GitHub](https://img.shields.io/badge/GitHub-royaldevlopments-181717?style=flat-square&logo=github)](https://github.com/royaldevlopments)
 [![Email](https://img.shields.io/badge/Email-royaldevlopments%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:royaldevlopments@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-royaldevlopments-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/royaldevlopments)
+[![Twitter](https://img.shields.io/badge/Twitter-@royaldevlopments-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/royaldevlopments)
