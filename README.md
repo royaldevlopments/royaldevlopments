@@ -107,8 +107,6 @@ We're a small but passionate team. We believe in quality over quantity, and ever
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=radical&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show=reviews,discussions_started,discussions_answered&theme=radical&hide_border=true" width="49%" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=royaldevlopments&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="96%" />
-  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldevlopments&theme=redical&hide_border=true&area=true&radius=8" width="96%" />
 </div>
 
