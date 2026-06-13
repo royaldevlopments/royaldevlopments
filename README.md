@@ -13,7 +13,7 @@ Founder of **Royal Devlopments** — a full-service development studio that star
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
