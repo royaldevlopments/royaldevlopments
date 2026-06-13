@@ -4,6 +4,15 @@ Founder of **Royal Devlopments** — a full-service development studio that star
 
 ---
 
+## 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=dark&hide_border=true" width="49%" />
+</div>
+
+---
+
 ## 🏢 Royal Devlopments — The Story
 
 What began as a small conversation in a **Discord server** is now a full-fledged development company. It started with a simple idea — why can't a group of passionate developers build things that actually matter? No corporate nonsense, no red tape. Just code, creativity, and the drive to ship.
@@ -98,16 +107,13 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Details
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaldevlopments&layout=compact&theme=radical&hide_border=true&langs_count=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royaldevlopments&layout=compact&theme=dark&hide_border=true&langs_count=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show=reviews,discussions_started,discussions_answered&theme=dark&hide_border=true" width="49%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=royaldevlopments&show=reviews,discussions_started,discussions_answered&theme=radical&hide_border=true" width="49%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldevlopments&theme=redical&hide_border=true&area=true&radius=8" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldevlopments&theme=react-dark&hide_border=true&area=true&radius=8" width="96%" />
 </div>
 
 ---
