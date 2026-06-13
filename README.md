@@ -10,6 +10,14 @@ Founder of **Royal Devlopments** — a full-service development studio that star
 
 ---
 
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in" width="80%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -17,7 +25,7 @@ Founder of **Royal Devlopments** — a full-service development studio that star
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=radical&hide_border=true" width="49%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏢 Royal Devlopments — The Story
 
@@ -40,6 +48,19 @@ Hey, I'm **Shaurya** — the founder. I started this because I believed develope
 | **—** | Team (Growing...) |
 
 We're a small but passionate team. We believe in quality over quantity, and every project we ship reflects that.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/royaldevlopments/royalcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royalcode&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
+  </a>
+  <a href="https://github.com/royaldevlopments/royaldevlopments">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royaldevlopments&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
+  </a>
+</div>
 
 ---
 
@@ -113,6 +134,31 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 ---
 
+## 🛠️ Tools & Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinit-0044CC?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhook-FF4500?style=for-the-badge&logo=webhook&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Details
 
 <div align="center">
@@ -124,11 +170,17 @@ We're a small but passionate team. We believe in quality over quantity, and ever
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<a href="https://github.com/royaldevlopments">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=150&section=footer&text=Thanks%20for%20visiting%20%F0%9F%9A%80&fontSize=30&fontAlignY=65&animation=twinkling" width="100%" />
+</a>
 
 ---
 
