@@ -1,6 +1,12 @@
+<a href="https://github.com/royaldevlopments">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=200&section=header&text=Royal%20Devlopments&fontSize=50&fontAlignY=30&animation=twinkling" width="100%" />
+</a>
+
 # 👋 Hey, I'm Shaurya
 
 Founder of **Royal Devlopments** — a full-service development studio that started from a Discord server and grew into something bigger.
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=FF6A00&center=true&vCenter=true&width=900&lines=Founder+%26+Lead+Developer;Full-Stack+Web+%26+App+Developer;TypeScript+%7C+React+%7C+Bun+%7C+Node.js;DevOps+%7C+Cloud+%7C+Infrastructure;Open+Source+Enthusiast;Building+Royal+Devlopments+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 ---
 
@@ -115,6 +121,14 @@ We're a small but passionate team. We believe in quality over quantity, and ever
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=royaldevlopments&theme=redical&hide_border=true&area=true&radius=8" width="96%" />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/royaldevlopments/royaldevlopments/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 ---
 
