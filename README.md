@@ -16,23 +16,13 @@ From startups needing their first MVP to businesses looking for custom software 
 
 Hey, I'm **Shaurya** — the founder. I started this because I believed developers should have better tools and businesses should have better software. I code in TypeScript, React, Bun, and whatever gets the job done. I believe in clean code, great UX, and shipping on time.
 
-### Our Pillars
+### Our Pillars — The Team
 
-| Pillar | What We Do |
-|--------|------------|
-| 🌐 **Web Development** | Websites, web apps, dashboards, APIs |
-| 📱 **Mobile Apps** | Android & iOS apps with React Native |
-| 💻 **Software** | Desktop apps for Windows, macOS & Linux |
-| 🤖 **AI & Tools** | AI-powered assistants, dev tools, automations |
-| ☁️ **Cloud & Infra** | Deployment, hosting, scaling, DevOps |
-
-### Our Team
-
-| Role | Name |
-|------|------|
-| **Founder & Lead Developer** | Shaurya |
-| **Co-Founder** | TBA |
-| **Team** | Growing... |
+| Pillar | Role |
+|--------|------|
+| **Shaurya** | Founder & Lead Developer |
+| **TBA** | Co-Founder |
+| **—** | Team (Growing...) |
 
 We're a small but passionate team. We believe in quality over quantity, and every project we ship reflects that.
 
