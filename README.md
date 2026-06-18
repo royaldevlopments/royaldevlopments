@@ -57,8 +57,11 @@ We're a small but passionate team. We believe in quality over quantity, and ever
   <a href="https://github.com/royaldevlopments/royalcode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royalcode&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
   </a>
-  <a href="https://github.com/royaldevlopments/royaldevlopments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royaldevlopments&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
+  <a href="https://github.com/royaldevlopments/royalwings">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royalwings&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
+  </a>
+  <a href="https://github.com/royaldevlopments/royalpanel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=royaldevlopments&repo=royalpanel&theme=radical&hide_border=true&description_lines_count=2" width="45%" />
   </a>
 </div>
 
