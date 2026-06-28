@@ -25,6 +25,16 @@ Founder of **Royal Devlopments** — a full-service development studio that star
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royaldevlopments&theme=radical&hide_border=true" width="49%" />
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=royaldevlopments&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-achievements.vercel.app/?username=royaldevlopments&theme=radical&border=true&labels=true" width="60%" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏢 Royal Devlopments — The Story
